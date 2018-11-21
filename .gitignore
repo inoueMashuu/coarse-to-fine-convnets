@@ -1,0 +1,8 @@
+cifar-10\.ipynb_checkpoints
+fashion-mnist\.ipynb_checkpoints
+.ipynb_checkpoints/
+
+fashion-mnist/data/fashion/t10k-images-idx3-ubyte.gz
+fashion-mnist/data/fashion/t10k-labels-idx1-ubyte.gz
+fashion-mnist/data/fashion/train-images-idx3-ubyte.gz
+fashion-mnist/data/fashion/train-labels-idx1-ubyte.gz
