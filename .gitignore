@@ -6,3 +6,16 @@ fashion-mnist/data/fashion/t10k-images-idx3-ubyte.gz
 fashion-mnist/data/fashion/t10k-labels-idx1-ubyte.gz
 fashion-mnist/data/fashion/train-images-idx3-ubyte.gz
 fashion-mnist/data/fashion/train-labels-idx1-ubyte.gz
+
+
+cifar-100/models/adaptative-branch-net.h5
+cifar-100/models/adaptative-concat-net.h5
+cifar-100/models/adaptative-guide-net.h5
+cifar-100/models/adaptative-inverse-concat-net.h5
+cifar-100/models/adaptative-split-net.h5
+cifar-100/models/baseline-net.h5
+cifar-100/models/branch-net.h5
+cifar-100/models/concat-net.h5
+cifar-100/models/guide-net.h5
+cifar-100/models/inverse-concat-net.h5
+cifar-100/models/split-net.h5
